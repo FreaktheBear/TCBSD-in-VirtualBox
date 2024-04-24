@@ -11,7 +11,7 @@ Used hardware and software:
 
 Download the latest TwinCAT/BSD file from the Beckhoff site and unzip it to a folder (example):
 
-![image0001](TCBSD-in-VirtualBox/image0001.png)
+![image0001](image0001.png)
 
 ![image0002](GitSpace/TCBSDVirtualBox/TCBSD-in-VirtualBox/image0002.png)
 
